@@ -1,0 +1,7 @@
+site_name: MyDocs
+
+nav:
+  - Home: index.md
+  - Team: team.md
+  - Robot: robot.md
+  - Proportional Integral Derivitave Controller: pid.md
