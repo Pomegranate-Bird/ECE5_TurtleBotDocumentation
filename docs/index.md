@@ -6,7 +6,7 @@
 
 
 **Introduction:**
-    The Birb Team decided to create a TurtleBot, a common Robot used in robotics education. We decided that a TurtelBot would best represent ECE5, where we have learned many foundational topics that directly apply to Robotics. ECE5 has been instrumental in the creation of our TurtleBot, every topic we have learned has played a role in the completion of our project, topics such as C (Programming), Microcontrollers, Onshape(3D Modeling), and 3D printing. 
+   The Birb Team decided to create a TurtleBot, a common robot used in robotics education. We chose a TurtleBot because it best represents ECE5, where we learned many foundational topics that directly apply to robotics. ECE5 has been instrumental in the creation of our TurtleBot, every topic we covered played a role in completing our project, including C programming, microcontrollers, Onshape for 3D modeling, and 3D printing.
 
 **3D Model:**
 

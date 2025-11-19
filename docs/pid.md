@@ -5,11 +5,11 @@
 
 **Background on Control Theory**
 
-PID controllers otherwise known as Proportional Integral Controllers are a type of tool utilized to control the behavior of a system. PID controllers originate from a field called control theory, control theory specializes in creating mathematical models of systems. By creating a mathematical model of a system, it allows you to design functions which produce desired outcomes.
+PID controllers, otherwise known as Proportional–Integral–Derivative controllers, are tools used to regulate the behavior of a system. They originate from a field called control theory, which focuses on creating mathematical models of systems. By developing a mathematical model, engineers can design control functions that produce desired outcomes and ensure the system behaves in a stable and predictable way.
 
 **Example:**
 
-Our TurtleBot is an example of a system. The kinmatics of our TurtleBot can be described by the Differential Drive model. Since our TurtleBot dosen't have a steering joint between the two front wheels like a regular car, it turns by varing the speeds of both it's wheels. 
+Our TurtleBot is an example of a system. The kinematics of the TurtleBot can be described by the differential drive model. Unlike a car, which uses a steering joint to turn its front wheels, our TurtleBot turns by varying the speeds of its two wheels. By increasing the speed of one wheel and decreasing the speed of the other, the robot can rotate left or right.
 
 ![Differential Drive Robot: TurtleBot](pictures/kinematicsv2.png)
 
