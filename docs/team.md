@@ -1,13 +1,15 @@
 ## Meet The Team 
-Team Members:
+---
 
-1. Marvin Cruz Gomez
+**Team Members:**
 
-2. Cesare Grepo
+1. **Marvin Cruz Gomez**
 
-3. John
+2. **Cesare Grepo**
 
-4. Wickham Woo
+3. **John**
+
+4. **Wickham Woo**
 
 
 ---
@@ -16,24 +18,24 @@ Team Members:
 
 ### Backgrounds:
 
-- Marvin Cruz Gomez: Electrical Engineering
+- **Marvin Cruz Gomez**: Electrical Engineering
     - First Year-Transfer
     - Club: Combat Robotics 
-    - Depth: Embedded Systems & Controls
+    - Depth: Machine Learning & Controls
 
-- Cesare Grepo: Electrical Engineering 
+- **Cesare Grepo**: Electrical Engineering 
     - First Year-Transfer
     - Club:  
     - Depth: 
     
 
-- Wickham Woo: Electrical Engineering 
+- **Wickham Woo**: Electrical Engineering 
     - Frist Year
     - Club: UCSD Solar Car 
-    - Depth: 
+    - Depth: Power Engineering 
 
-- John Umipig
+- **John Umipig**: Electrical Engineering 
     - Frist Year
-    - Club: Combat Robotics 
-    - Depth: Embedded Systems & Controls
+    - Club: Valorant
+    - Depth: Device materials 
 
