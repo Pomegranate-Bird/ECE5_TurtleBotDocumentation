@@ -16,7 +16,7 @@
 
 **Final Product:**
 
-![TurtleBot Robot](pictures/turtlebotmodel.png)
+![TurtleBot Robot](pictures/FInal_Product.jpg)
 
 
 ---
