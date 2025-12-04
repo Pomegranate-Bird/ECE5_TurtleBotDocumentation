@@ -5,6 +5,7 @@ nav:
   - Team: team.md
   - Robot: robot.md
   - Proportional Integral Derivitave Controller: pid.md
+  - Project Advice: advice.md
 
 markdown_extensions:
   - pymdownx.arithmatex

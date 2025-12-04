@@ -5,16 +5,14 @@
 
 1. **Marvin Cruz Gomez**
 
-2. **Cesare Grepo**
+2. **John**
 
-3. **John**
+3. **Cesare Grepo** 
 
 4. **Wickham Woo**
 
 
 ---
-
-
 
 ### Backgrounds:
 
@@ -25,8 +23,8 @@
 
 - **Cesare Grepo**: Electrical Engineering 
     - First Year-Transfer
-    - Club:  
-    - Depth: 
+    - Club: San Diego Beach Volley Ball 
+    - Depth: Singal Processing 
     
 
 - **Wickham Woo**: Electrical Engineering 

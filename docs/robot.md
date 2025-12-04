@@ -17,9 +17,7 @@ Another important system component that ensures successful line following is a P
 
 ## 3D Modeling
 
-Picture of the assembly of the parts in OnShape 
-
-Have a link to the OnShape file 
+![Final TurtleBot Model:](pictures/turtlebot.png)
 
 
 ---
@@ -36,7 +34,7 @@ Basically detail how we built the Robot
 ---
 
 ## Final product 
-Picture of the robot assembled 
+![Final Robot: Iteration 4](pictures/final_robot_iteration.png)
 
 
 

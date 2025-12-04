@@ -1,26 +1,26 @@
 ## Controlling a TurtleBot
 ---
 
-### PID Controllers
+### PID Controllers & TurtleBot Kinematics 
 
 **Background on Control Theory**
 
 PID controllers, otherwise known as Proportional–Integral–Derivative controllers, are tools used to regulate the behavior of a system. They originate from a field called control theory, which focuses on creating mathematical models of systems. By developing a mathematical model, engineers can design control functions that produce desired outcomes and ensure the system behaves in a stable and predictable way.
 
-**Example:**
+---
+## Differential Drive Model:
 
-Our TurtleBot is an example of a system. The kinematics of the TurtleBot can be described by the differential drive model. Unlike a car, which uses a steering joint to turn its front wheels, our TurtleBot turns by varying the speeds of its two wheels. By increasing the speed of one wheel and decreasing the speed of the other, the robot can rotate left or right.
+Our TurtleBot is an example of a control system. The kinematics of the TurtleBot can be described by the differential drive model. Unlike a car, which uses a steering joint to turn its front wheels, our TurtleBot turns by varying the speeds of its two wheels. By increasing the speed of one wheel and decreasing the speed of the other, the robot can rotate left or right.
 
 ![Differential Drive Robot: TurtleBot](pictures/kinematicsv2.png)
 
+---
 
-## The Differential Drive Model
-
-
-**Proportional Intergral Derivitave Controller:**
+## Proportional Intergral Derivitave Controller:
 
 ![Block Diagram Of A PID Controller ](pictures/pid.png)
 
+---
 
 **Explaining each term of the controller:**
 
@@ -47,7 +47,42 @@ The Derivitave portion of the controller is useful in reducing oscilations. By m
 **K Terms:**
     All of the K terms are constant-terms decided by the user, they're not random, they're discoevered by trial and error in a process called tunning. The K terms decide how aggressively the PID components will contribute to the outcome.
 
+---
 
+## Competition PID Values: Theory In Action
 
+*Track 1:*
+
+Picture of track 1 
+
+**P:** 
+
+**I:** 
+
+**D:** 
+
+**K Terms:**
+
+*Track 2:*
+Pciture of track 2 
+
+**P:** 
+
+**I:** 
+
+**D:** 
+
+**K Terms:**
+
+*Track 3:*
+Picture of track 3 
+
+**P:** 
+
+**I:** 
+
+**D:** 
+
+**K Terms:**
 
 
