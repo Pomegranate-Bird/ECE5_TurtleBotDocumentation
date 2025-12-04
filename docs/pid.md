@@ -1,9 +1,9 @@
 ## Controlling a TurtleBot
 ---
 
-### PID Controllers & TurtleBot Kinematics 
+### PID Controllers & TurtleBot Kinematics:
 
-**Background on Control Theory**
+**Control Theory Background:**
 
 PID controllers, otherwise known as Proportional–Integral–Derivative controllers, are tools used to regulate the behavior of a system. They originate from a field called control theory, which focuses on creating mathematical models of systems. By developing a mathematical model, engineers can design control functions that produce desired outcomes and ensure the system behaves in a stable and predictable way.
 

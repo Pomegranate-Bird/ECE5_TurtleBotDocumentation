@@ -1,11 +1,11 @@
-site_name: ECE5 TurtleBot Final Project 
+site_name: ECE5 Birb Squad's TurtleBot Final Project 
 
 nav:
   - Home: index.md
   - Team: team.md
   - Robot: robot.md
   - Proportional Integral Derivitave Controller: pid.md
-  - Project Advice: advice.md
+  - Prototyping: advice.md
 
 markdown_extensions:
   - pymdownx.arithmatex
