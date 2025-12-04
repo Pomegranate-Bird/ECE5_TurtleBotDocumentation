@@ -46,6 +46,9 @@
                             <li class="nav-item">
                                 <a href="./" class="nav-link active" aria-current="page">Proportional Integral Derivitave Controller</a>
                             </li>
+                            <li class="nav-item">
+                                <a href="../advice/" class="nav-link">Project Advice</a>
+                            </li>
                         </ul>
 
                     <ul class="nav navbar-nav ms-md-auto">
@@ -60,7 +63,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" class="nav-link disabled">
+                                <a rel="next" href="../advice/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -87,7 +90,17 @@
               </ul>
             </li>
             
-            <li class="nav-item" data-bs-level="2"><a href="#the-differential-drive-model" class="nav-link">The Differential Drive Model</a>
+            <li class="nav-item" data-bs-level="2"><a href="#differential-drive-model" class="nav-link">Differential Drive Model:</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="2"><a href="#proportional-intergral-derivitave-controller" class="nav-link">Proportional Intergral Derivitave Controller:</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="2"><a href="#competition-pid-values-theory-in-action" class="nav-link">Competition PID Values: Theory In Action</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -98,15 +111,17 @@
 
 <h2 id="controlling-a-turtlebot">Controlling a TurtleBot</h2>
 <hr />
-<h3 id="pid-controllers">PID Controllers</h3>
+<h3 id="pid-controllers-turtlebot-kinematics">PID Controllers &amp; TurtleBot Kinematics</h3>
 <p><strong>Background on Control Theory</strong></p>
 <p>PID controllers, otherwise known as Proportional–Integral–Derivative controllers, are tools used to regulate the behavior of a system. They originate from a field called control theory, which focuses on creating mathematical models of systems. By developing a mathematical model, engineers can design control functions that produce desired outcomes and ensure the system behaves in a stable and predictable way.</p>
-<p><strong>Example:</strong></p>
-<p>Our TurtleBot is an example of a system. The kinematics of the TurtleBot can be described by the differential drive model. Unlike a car, which uses a steering joint to turn its front wheels, our TurtleBot turns by varying the speeds of its two wheels. By increasing the speed of one wheel and decreasing the speed of the other, the robot can rotate left or right.</p>
+<hr />
+<h2 id="differential-drive-model">Differential Drive Model:</h2>
+<p>Our TurtleBot is an example of a control system. The kinematics of the TurtleBot can be described by the differential drive model. Unlike a car, which uses a steering joint to turn its front wheels, our TurtleBot turns by varying the speeds of its two wheels. By increasing the speed of one wheel and decreasing the speed of the other, the robot can rotate left or right.</p>
 <p><img alt="Differential Drive Robot: TurtleBot" src="../pictures/kinematicsv2.png" /></p>
-<h2 id="the-differential-drive-model">The Differential Drive Model</h2>
-<p><strong>Proportional Intergral Derivitave Controller:</strong></p>
+<hr />
+<h2 id="proportional-intergral-derivitave-controller">Proportional Intergral Derivitave Controller:</h2>
 <p><img alt="Block Diagram Of A PID Controller " src="../pictures/pid.png" /></p>
+<hr />
 <p><strong>Explaining each term of the controller:</strong></p>
 <p><img alt="The PID Equation " src="../pictures/pid_equation.png" /></p>
 <p><strong>P:</strong> 
@@ -119,7 +134,27 @@
     Derivitave term of the controller measures the rate of change of the system. </p>
 <p>The Derivitave portion of the controller is useful in reducing oscilations. By measuring the rate at which the error is changing the derivitave portion of the controller reduces how much the robot overshoots the line.</p>
 <p><strong>K Terms:</strong>
-    All of the K terms are constant-terms decided by the user, they're not random, they're discoevered by trial and error in a process called tunning. The K terms decide how aggressively the PID components will contribute to the outcome.</p></div>
+    All of the K terms are constant-terms decided by the user, they're not random, they're discoevered by trial and error in a process called tunning. The K terms decide how aggressively the PID components will contribute to the outcome.</p>
+<hr />
+<h2 id="competition-pid-values-theory-in-action">Competition PID Values: Theory In Action</h2>
+<p><em>Track 1:</em></p>
+<p>Picture of track 1 </p>
+<p><strong>P:</strong> </p>
+<p><strong>I:</strong> </p>
+<p><strong>D:</strong> </p>
+<p><strong>K Terms:</strong></p>
+<p><em>Track 2:</em>
+Pciture of track 2 </p>
+<p><strong>P:</strong> </p>
+<p><strong>I:</strong> </p>
+<p><strong>D:</strong> </p>
+<p><strong>K Terms:</strong></p>
+<p><em>Track 3:</em>
+Picture of track 3 </p>
+<p><strong>P:</strong> </p>
+<p><strong>I:</strong> </p>
+<p><strong>D:</strong> </p>
+<p><strong>K Terms:</strong></p></div>
             </div>
         </div>
 
