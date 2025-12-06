@@ -29,7 +29,7 @@
 **First Track: Drag Race**
 
 *Performance:*
-1. Place: First place on our first race
+First place on our first race
 
 <video width="640" height="360" controls>
   <source src="videos/dragRace.mp4" type="video/mp4">
@@ -38,14 +38,14 @@
 **Second Track: Loop**
 
 *Performance:*
-1. Total amount of loops: 9
+Total amount of loops: 9
 <video width="640" height="360" controls>
   <source src="videos/Loop_final.mp4" type="video/mp4">
 </video>
 
 **Third Track: Frequency Sweep:**
 *Performance:*
-1. Distance: Half the track was completed 
+Distance: Half the track was completed 
 <img src="pictures/frequency_race.png" width="600">
 
 ---
