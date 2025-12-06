@@ -1,7 +1,7 @@
 ## Meet The Team 
 ---
 
-![The Birb Squad:](pictures/teampicture.png)
+![The Bird Squad:](pictures/teampicture.png)
 
 **Team Members:**
 
