@@ -45,7 +45,7 @@
 
 **Third Track: Frequency Sweep:**
 *Performance:*
-1. Distance: Half the track
+1. Distance: Half the track was completed 
 <img src="pictures/frequency_race.png" width="600">
 
 ---
