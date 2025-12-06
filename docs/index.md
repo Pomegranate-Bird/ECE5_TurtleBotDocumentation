@@ -48,8 +48,6 @@
 1. Distance: Half the track
 <img src="pictures/frequency_race.png" width="600">
 
-
-
 ---
 
 
