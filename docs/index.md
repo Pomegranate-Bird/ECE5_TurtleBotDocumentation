@@ -29,7 +29,7 @@
 **First Track: Drag Race**
 
 *Performance:*
-First place on our first race
+Place: 1st on our first race
 
 <video width="640" height="360" controls>
   <source src="videos/dragRace.mp4" type="video/mp4">
