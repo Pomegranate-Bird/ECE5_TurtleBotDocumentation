@@ -29,7 +29,7 @@
 **First Track: Drag Race**
 
 *Performance:*
-1. Place: First in our first race
+1. Place: First place on our first race
 
 <video width="640" height="360" controls>
   <source src="videos/dragRace.mp4" type="video/mp4">
@@ -47,11 +47,6 @@
 *Performance:*
 1. Distance: Half the track
 <img src="pictures/frequency_race.png" width="600">
-
-
-## Leaderboard placement
-
-Overall Rank: 
 
 
 
