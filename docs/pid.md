@@ -45,44 +45,56 @@ The Integral portion of the controller is useful in reducing steady state error.
 The Derivitave portion of the controller is useful in reducing oscilations. By measuring the rate at which the error is changing the derivitave portion of the controller reduces how much the robot overshoots the line.
 
 **K Terms:**
-    All of the K terms are constant-terms decided by the user, they're not random, they're discoevered by trial and error in a process called tunning. The K terms decide how aggressively the PID components will contribute to the outcome.
+    All of the K terms are constant-terms decided by the user, they're not random, they're discoevered by trial and error in a process called tunning. The K terms decide how aggressively the PID components will contribute to the outcome. We tune these values using the potentiometer onboard the robot.
 
+**Sp:**
+    The nomial speed of the robot, the base the speed will move without the PID's influence. 
 ---
 
 ## Competition PID Values: Theory In Action
 
 *Track 1:*
 
-Picture of track 1 
+![Drag Race:](pictures/drag_race.png)
 
-**P:** 
 
-**I:** 
+**Sp: 65** 
 
-**D:** 
+**P: 50** 
 
-**K Terms:**
+**I: 0** 
+
+**D: 0** 
+
+The track was relatively simple, it didn't have big turns or strange geometry. Allowing us to focus simply on speed
 
 *Track 2:*
-Pciture of track 2 
 
-**P:** 
+![Loop:](pictures/pear_track.png)
+
+The Loop track was simple enough that we didn't have to modify  our PID values to drastically. The geometry was also realtively simple.
+
+**Sp:55** 
+
+**P:50** 
 
 **I:** 
 
 **D:** 
 
-**K Terms:**
 
 *Track 3:*
-Picture of track 3 
+![Frequency Race:](pictures/frequency_race.png)
 
-**P:** 
+The frequncy track's geometry was rather complex, full of turns and sharp corners. To avoid overshooting and having a spiriling error, we decided that a lower speed would be best. The lower speed allowed us to complete a good portion of the track. Given more time, could've better tuned for the frequency track. 
+
+**Sp:25** 
+
+**P:30** 
 
 **I:** 
 
 **D:** 
 
-**K Terms:**
 
 

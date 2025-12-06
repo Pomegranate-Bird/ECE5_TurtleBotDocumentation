@@ -23,13 +23,18 @@ Another important system component that ensures successful line following is a P
 ---
 
 ## Construction 
+To complete our objective of following a line, we had to assemble the components that would allow our robot to move, detect a line, and allow for quick PID tuning. 
 
-A picture of all the parts printed 
+Hardware Powering the TurtleBot:
 
-The list of components we had to assemble 
+**Light Dependent Ressitors: Allows our robot to sense a line**
+![Sensors:](pictures/ldrs.jpg)
 
+**DC Brushless Motors: Powered by an external power supply**
+![Motors:](pictures/motors.png)
 
-Basically detail how we built the Robot 
+**Potentiometers: Allow Fast PID tunning**
+![Potentiometers:](pictures/pot_meters.jpg)
 
 ---
 

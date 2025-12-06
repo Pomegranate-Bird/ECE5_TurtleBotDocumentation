@@ -1,11 +1,13 @@
 ## Meet The Team 
 ---
 
+![The Birb Squad:](pictures/teampicture.png)
+
 **Team Members:**
 
 1. **Marvin Cruz Gomez**
 
-2. **John**
+2. **John Umipig**
 
 3. **Cesare Grepo** 
 
@@ -24,16 +26,16 @@
 - **Cesare Grepo**: Electrical Engineering 
     - First Year-Transfer
     - Club: San Diego Beach Volley Ball 
-    - Depth: Singal Processing 
+    - Depth: Signal Processing 
     
 
 - **Wickham Woo**: Electrical Engineering 
-    - Frist Year
+    - First Year
     - Club: UCSD Solar Car 
     - Depth: Power Engineering 
 
 - **John Umipig**: Electrical Engineering 
-    - Frist Year
+    - First Year
     - Club: Valorant
     - Depth: Device materials 
 
